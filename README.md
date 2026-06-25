@@ -51,7 +51,3 @@ collected, and where is the financial risk concentrated?*
 - Source: Kaggle — Hospital Patient Treatment Management System
 - 50,000 admission records across 7 related tables
 - Date range: January 2020 to December 2024
-
-## Files
-- `Hospital_Financial_Health.pbix` — Power BI report file
-- `README.md` — project documentation
