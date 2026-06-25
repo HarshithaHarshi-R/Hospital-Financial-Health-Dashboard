@@ -2,7 +2,7 @@
 Power BI dashboard analyzing hospital billing and payment risk across departments
 
 ## Project Overview
-An independent Power BI dashboard analysing the financial health 
+An self-built Power BI dashboard analysing the financial health 
 of a hospital across 5 years (2020–2024), built on a 50,000-row 
 hospital management dataset. The dashboard tracks revenue billed 
 vs collected, outstanding balances, insurance coverage, and payment 
@@ -13,10 +13,6 @@ Hospitals often struggle to track where revenue is being lost —
 whether through unpaid bills, insurance gaps, or EMI defaults. 
 This dashboard answers: *How much money is owed, how much has been 
 collected, and where is the financial risk concentrated?*
-
-<img width="1159" height="656" alt="Page1" src="https://github.com/user-attachments/assets/a24e8c6c-cf56-46b6-8a64-7115601ef78b" />
-
-<img width="1168" height="656" alt="Page 2" src="https://github.com/user-attachments/assets/4d462117-2550-4459-88b0-cb1a6eb21c77" />
 
 ### Page 1 — Revenue Overview
 - Total billing, collections, pending, and insurance KPIs
@@ -30,6 +26,10 @@ collected, and where is the financial risk concentrated?*
 - Payment mode split — Cash, Card, and EMI nearly equal
 - Insurance vs out-of-pocket amount by department
 - EMI risk table showing pending by 3, 6, and 12 month plans
+
+<img width="1159" height="656" alt="Page1" src="https://github.com/user-attachments/assets/a24e8c6c-cf56-46b6-8a64-7115601ef78b" />
+
+<img width="1168" height="656" alt="Page 2" src="https://github.com/user-attachments/assets/4d462117-2550-4459-88b0-cb1a6eb21c77" />
 
 ## Key Insights
 - ₹354M (25% of net payable) is outstanding across all departments
